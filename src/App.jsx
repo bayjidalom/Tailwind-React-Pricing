@@ -7,15 +7,15 @@ function App() {
   return (
     <>
 
-    <header>
-      <Navbar></Navbar>
-      <DaisyNav></DaisyNav>
+      <header>
+        <Navbar></Navbar>
+        <DaisyNav></DaisyNav>
 
-    </header>
+      </header>
 
-    <main>
+      <main>
 
-    </main>
+      </main>
     </>
   )
 }
